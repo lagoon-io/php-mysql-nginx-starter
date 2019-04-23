@@ -1,6 +1,7 @@
 # php-mysql-nginx-starter
 
 [![Build Status](https://travis-ci.org/lagoon-io/php-mysql-nginx-starter.svg?branch=master)](https://travis-ci.org/lagoon-io/php-mysql-nginx-starter)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 PHP7、MySQL、Nginx 構成の Docker
 
