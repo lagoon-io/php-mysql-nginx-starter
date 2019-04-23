@@ -1,5 +1,7 @@
 # php-mysql-nginx-starter
 
+[![Build Status](https://travis-ci.org/lagoon-io/php-mysql-nginx-starter.svg?branch=master)](https://travis-ci.org/lagoon-io/php-mysql-nginx-starter)
+
 PHP7、MySQL、Nginx 構成の Docker
 
 ## 前提条件
