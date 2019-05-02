@@ -14,6 +14,7 @@ PHP7、MySQL、Nginx 構成の Docker
 
 ・PHP7.2  
 ・MySQL5.7  
+・phpMyAdmin  
 ・Nginx(最新版)
 
 ## 起動方法
@@ -32,3 +33,21 @@ $ docker-compose up -d
 ```
 $ docker-compose stop
 ```
+
+
+
+## Webサーバ
+・ポート番号：8080
+
+## PHPモジュール配置先
+・パス： <プロジェクトルート>/www/html/
+
+## DBログイン
+・ポート番号：13306  
+・ユーザー名：root  
+・パスワード ：secret  
+
+## phpMyAdminログイン
+・ポート番号：8888  
+・ユーザー名：DBログインと同じ  
+・パスワード ：DBログインと同じ  
