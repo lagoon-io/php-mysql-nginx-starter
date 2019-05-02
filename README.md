@@ -34,7 +34,12 @@ $ docker-compose up -d
 $ docker-compose stop
 ```
 
+## 削除方法
 
+```
+# コンテナの削除
+$ docker-compose down
+```
 
 ## Webサーバ
 ・ポート番号：8080
